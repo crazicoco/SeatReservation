@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 #intent      :
 #Author      :Fang Haisheng
@@ -44,8 +44,8 @@ def login(driver):
     """
     driver.find_element_by_class_name('login').click()  # 点击“账户登录”
     time.sleep(1)
-    username = "17027058"  # 请替换成你的用户名
-    password = "022420"  # 请替换成你的密码
+    username = "xxxxxxxx"  # 请替换成你的用户名
+    password = "xxxxxx"  # 请替换成你的密码
     driver.find_element_by_xpath(
         '//*[@id="dlg_login"]/form/div[1]/div[2]/table/tbody/tr[1]/td[2]/input').click()  # 点击用户名输入框
     driver.find_element_by_xpath(

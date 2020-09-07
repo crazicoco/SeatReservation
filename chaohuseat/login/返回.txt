@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 469
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Server: *****************
+X-AspNet-Version: 2.0.50727
+Access-Control-Allow-Origin: *
+X-Powered-By: *******
+Date: Sun, 06 Sep 2020 08:57:23 GMT
+Connection: close
+Proxy-Connection: keep-alive
+
+{"ret":1,"act":"login","msg":"ok","data":{"id":"17027058","accno":"100057918","name":"梅娟","phone":"","email":"","msn":"","ident":"4194560","dept":"文学传媒与教育科学","deptid":"101099744","tutor":null,"tutorid":null,"cls":"文学传媒与教育科学","clsid":"101099745","receive":true,"tsta":null,"rtsta":null,"pro":null,"score":300,"credit":[["个人预约制度","300","300",""],["管理员强制处罚","300","300",""]],"role":"134217730"},"ext":null}
